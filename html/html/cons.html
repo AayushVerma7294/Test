@@ -1,0 +1,73 @@
+w<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML Lab</title>
+    <script>
+        function redirectToPage() {
+            // Get the value from the input field
+            var inputNumber = document.getElementById("numberInput").value;
+
+            // Check if the input is a valid number
+            if (!isNaN(inputNumber)) {
+                // Redirect to another page with the input number as a parameter
+                window.location.href = "entry_no." + (inputNumber*314) + ".html";
+            } else {
+                alert("Entry Not Found");
+            }
+        }
+    </script>
+	<script>
+        function checkInput() {
+            var inputWord = document.getElementById('inputField').value.toLowerCase();
+            
+            // Replace 'yourword' with the word you want to trigger the redirection
+            if (inputWord === inputWord) {
+                window.location.href = inputWord +".html";
+			}
+            else {
+               window.location.href = 'anotherpage.html';
+			   //alert('Input word does not match. Try again.');
+            }
+        }
+    </script>
+
+</head>
+<body>
+    <h1>Enter a Number</h1>
+    <form>
+        <label for="numberInput">Number:</label>
+        <input type="text" id="numberInput" name="numberInput">
+        <button type="button" onclick="redirectToPage()">Submit</button>
+    </form>
+	<form>
+	<label for="inputField">Enter a word:</label>
+    <input type="text" id="inputField">
+    <button onclick="checkInput()">Submit</button>
+	</form>
+<table>
+<tr bgcolor="grey" align="center" >
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+
+<tr bgcolor="grey" align="center" >
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</tr>
+
+<tr bgcolor="grey" align="center" >
+<td>7</td>
+<td>8</td>
+<td>9</td>
+</tr>
+
+<<tr bgcolor="grey" align="center" >
+<td>*</td>
+<td>0</td>
+<td>#</td>
+</tr>
+
+</body>
+</html>

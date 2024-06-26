@@ -1,0 +1,549 @@
+<html>
+
+<head>
+
+<title>Home_Page</title>
+
+
+<style>
+h1 {color:Black;text-align:center;text-decoration:underline}
+h2 {color:Black}
+p {color:black;text-align:center;}
+  display: flex;
+        align-items: center;
+        height: 100vh;
+        margin: 1;
+        background-color: #f4f4f4;
+
+</style>
+</center>
+
+</head>
+
+<body bgcolor="grey">
+<center>
+<marquee direction="up" hspace="200" scrollamount="5" height="640>
+<table border="1" align="center">
+<tr>
+<td>
+<h1>Rockstar North</h1><br>
+<center><h2>Producer</h2><br>
+Leslie Benzies<br>
+Art Director<br>
+Aaron Garbut<br>
+Technical Directors<br>
+Adam Fowler<br>
+Obbe Vermeij<br>
+Senior Programmer<br>
+Alexander Roger<br>
+</center>
+<center>Written By<br>
+Dan Houser<br>
+James Worrall<br>
+DJ Pooh<br>
+Creative Writer<br>
+James Worrall<br>
+Lead Character Art<br>
+Ian McQue<br>
+Character Art<br>
+Alan Davidson<br>
+Alisdair Wood<br>
+Rick Stirling<br>
+Toks Solarin<br>
+Countryside Art<br>
+Michael Pirso<br>
+Scott Wilson<br>
+Stuart Macdonald<br>
+Lead Animator<br>
+Duncan Shields<br></center>
+Lead Cut-Scene Animator<br>
+Mondo Ghulam<br>
+Animation<br>
+Gus Braid<br>
+Iwan Scheer<br>
+Mark Tennant<br>
+Terry Kenny<br>
+Lead Los Santos Artist<br>
+Nik Taylor<br>
+Los Santos Artist<br>
+James Allan<br>
+Steven Mulholland<br>
+Simon Little<br>
+Lead San Fierro Artist<br>
+Gary McAdam<br>
+San Fierro Artist<br>
+Christopher Marshall<br>
+Wayland Standing<br>
+Lead Las Venturas Artist<br>
+Adam Cochrane<br>
+Las Venturas Artist<br>
+Andrew Soosay<br>
+David Cooper<br>
+Gillian Bertram<br>
+Lead Interior Art<br>
+Andy Hay<br>
+Interior Environment Art<br>
+Alan Burns<br>
+C-J Dick<br>
+Lee Montgomery<br>
+Michael Pirso<br>
+Lead Vehicle Art<br>
+Paul Kurowski<br>
+Vehicle Art<br>
+Alan Duncan<br>
+Jolyon Orme<br>
+Lead Level Design<br>
+Craig Filshie<br>
+Senior Level Design<br>
+Andy Duthie<br>
+Chris Rothwell<br>
+Imran Sarwar<br>
+William Mills<br>
+Lead Audio Designer<br>
+Allan Walker<br>
+Lead Music Producer<br>
+Craig Conner<br>
+Audio Designer<br>
+Jonathan McTavish<br>
+Will Morton<br>
+Audio Programming<br>
+Alastair MacGregor<br>
+Colin Entwistle<br>
+Matthew Smith<br>
+Level Design<br>
+Chris McMahon<br>
+Christian Cantamessa<br>
+David Beddoes<br>
+John Haime<br>
+Judith George<br>
+Keith McLeman<br>
+Kevin Bolt<br>
+Neil Ferguson<br>
+Paul Davis<br>
+Simon Lashley<br>
+Steve Taylor<br>
+Programming<br>
+Alexander Illes<br>
+Andrzej Madajczyk<br>
+Barane Chan<br>
+Derek Payne<br>
+Derek Ward<br>
+Gordon Yeoman<br>
+Graeme Williamson<br>
+Greg Smith<br>
+James Broad<br>
+John Gurney<br>
+John Whyte<br>
+Mark Nicholson<br>
+Shaun McKillop<br>
+QA Tools<br>
+Alex Carter<br>
+Front-end Design<br>
+Stuart Petri<br>
+QA Manager<br>
+Craig Arbuthnott<br>
+Senior Test Analyst<br>
+Neil Corbett<br>
+Lead Mission Analyst / Build Coordinator<br>
+David Watson<br>
+Lead Test Analyst<br>
+David Murdoch<br>
+Neil Meikle<br>
+Standards Testing<br>
+Brenda Carey<br>
+Test<br>
+Alex Bazlinton<br>
+Alex Paterson<br>
+Alistair Gorman<br>
+Barry Clark<br>
+Ben Abbott<br>
+Ben Barclay<br>
+Ben Greenall<br>
+Ben McCluskey<br>
+Bobby Wright<br>
+Brian Kelly<br>
+Chris Thomson<br>
+Chris Wood<br>
+David Murdoch<br>
+David Watson<br>
+Eugene Kuczerepa<br>
+Finlay Duff<br>
+Garry Reynolds<br>
+Ivor Williams<br>
+Jim McMahon<br>
+Lindsay Robertson<br>
+Louis Dinan<br>
+Mark McMichael<br>
+Matthew Clark<br>
+Michael Chan<br>
+Neil Meikle<br>
+Neil Walker<br>
+Nick Rees<br>
+Oliver Elliott<br>
+Paul Green<br>
+Pedro Correia<br>
+Philip Holden<br>
+Robyn Milne<br>
+Ross Wallace<br>
+Simon King<br>
+Stephen Anderson<br>
+Steev Douglas<br>
+Sundram Soosay<br>
+Surian Christopher Soosay<br>
+Thomas Philips<br>
+Tony Stewart<br>
+Test & Test Tool Support<br>
+James Whitcroft<br>
+Audio Testing<br>
+George Williamson<br>
+Studio Director<br>
+Andrew Semple<br>
+Office Administrator<br>
+Kim Gurney<br>
+Administration Support<br>
+Charlene Maguire<br>
+Milly Cottam<br>
+Sonya Willmann<br>
+Una Cruickshank<br>
+IT Manager<br>
+Lorraine Roy<br>
+IT Support<br>
+Christine Chalmers<br>
+Dave Bruce<br>
+Rockstar New York<br>
+Executive Producer<br>
+Sam Houser<br>
+Producer<br>
+Dan Houser<br>
+VP of Development<br>
+Jamie King<br>
+Art Director<br>
+Alex Horton<br>
+Chief Technology Officer<br>
+Gary J. Foreman<br>
+Director of Quality Assurance<br>
+Jeff Rosa<br>
+Associate Producer<br>
+Lee Cummings<br>
+Lead Analysts<br>
+Elizabeth Satterwhite<br>
+Lance Williams<br>
+Richard Huie<br>
+Rockstar Test Team<br>
+Brian Alcazar<br>
+Brian Planer<br>
+Chris Choi<br>
+Christopher Plummer<br>
+Crystal Bahmaie<br>
+Devin Smither<br>
+Ethan Abeles<br>
+Gene Overton<br>
+Jameel Vega<br>
+Jay Capozello<br>
+Mike Hong<br>
+Mike Nathan<br>
+Scott Peterman<br>
+Sean Flaherty<br>
+Thomas O'Donnell<br>
+William Rompf<br>
+Business Development Manager<br>
+Sean Macaluso<br>
+Soundtrack Supervisors<br>
+Tim Sweeney<br>
+Heinz Henn<br>
+Research and Analysis<br>
+Joe Howell<br>
+Gregory Johnson<br>
+Sanford Santacroce<br>
+Nicole Whelan<br>
+Ayana Osada<br>
+Executive Consultant<br>
+DJ Pooh<br>
+Consultants<br>
+Estevan Oriol<br>
+Mister Cartoon -:SA Studios:-<br>
+Audio Directed By<br>
+Dan Houser<br>
+Navid Khonsari<br>
+Cutscene Mocap Directed By<br>
+Navid Khonsari<br>
+Alex Horton<br>
+Voice Over Production By<br>
+Noelle Sadler<br>
+Script Supervision By<br>
+Kerry Shaw<br>
+Cutscene Supervising Sound Editor<br>
+Nicholas Montgomery<br>
+Cutscene Sound Designer<br>
+Brian Scibinico<br>
+Dialogue Edited By<br>
+Marilyn Teorey<br>
+Anthony Litton<br>
+DJ Banter and Commercials Produced By<br>
+Lazlow<br>
+Production Department<br>
+Eli Weissman<br>
+Franceska Clemens<br>
+John Zurhellen<br>
+Lyonel Tollemache<br>
+Phil Poli<br>
+Motion Graphics<br>
+Jon Dorfman<br>
+Maryam Parwana<br>
+The Cast<br>
+Voice Over Actors<br>
+Carl "CJ" Johnson - Chris Bellard aka Young Maylay<br>
+Sean "Sweet" Johnson - Faizon Love<br>
+Kendl Johnson - Yo Yo<br>
+Melvin "Big Smoke" Harris - Clifton Powell<br>
+Lance "Ryder" Wilson - MC Eiht<br>
+OG Loc - Jas Anderson<br>
+Mark "B Dup" Wayne - The Game<br>
+Barry "Big Bear" Thorne - Big Boy<br>
+Emmet - Eugene Jeter Jr.<br>
+Madd Dogg - Ice T<br>
+Cesar Vialpando - Clifton Collins Jr.<br>
+Officer Tenpenny - Samuel L. Jackson<br>
+Officer Pulaski - Chris Penn<br>
+Officer Hernandez - Armando Riesco<br>
+Catalina - Cynthia Farrell<br>
+The Truth - Peter Fonda<br>
+Jizzy B. - Charlie Murphy<br>
+T-Bone - Kid Frost<br>
+Mike Toreno - James Woods<br>
+Woozie - James Yaegashi<br>
+Su Xi Mu -: Soozie :- - Richard Chang<br>
+Ran Fa Li -: Farlie:- - Hunter Platin<br>
+Zero - David Cross<br>
+Kent Paul - Danny Dyer<br>
+Maccer - Shaun Ryder<br>
+Ken Rosenberg - Bill Fitchner<br>
+Salvatore Leone - Frank Vincent<br>
+Maria - Debi Mazar<br>
+Johnny Sindacco - Casey Siemaszko<br>
+Jimmy Silverman - Gary Yudman<br>
+Bettina - Noelle Sadler<br>
+Jethro - John Zurhellen<br>
+Dwaine - Navid Khonsari<br>
+Millie Perkins - Orfeh<br>
+Barbara Schternvart - Danielle Lee Greaves<br>
+Denise Robinson - Heather Alicia Simms<br>
+Michelle Cannes - Vanessa Aspillaga<br>
+Helena Wankstein - Bijou Phillips<br>
+Katie Zhan - China Chow<br>
+KDST DJ - Axl Rose<br>
+Modern Hip Hop DJ - Julio G<br>
+Classic Hip Hop DJ - Chuck D.<br>
+Grove Street Families Gang - Solo, A. da Business, Vincent Lomax, Gregory Johnson, Ricky Harris<br>
+Ballas Gang - Donnie Anderson, Michael Ralph, Ricky Harris, Darreck Burns, Derrick Edmond<br>
+Recorded At<br>
+Rockstar NYC, Juice West, LA<br>
+Directed By<br>
+Dan Houser<br>
+Navid Khonsari<br>
+Pedestrian VO Talent<br>
+Adam G<br>
+Adam Sietz<br>
+Adrian Guzman -:aka Transcend:-<br>
+Aldis Hodge<br>
+Alexandra Ortiz<br>
+Alexis Camins<br>
+Alice Liu<br>
+Alonzo Williams<br>
+Andrea Kessler<br>
+Angelo Perez<br>
+Anna Curtis<br>
+Anouchka Benson<br>
+Antonio Charity<br>
+Armando Riesco<br>
+Asa Somers<br>
+Ben Wang<br>
+Benjamin Byron Davis<br>
+Bigg Giant<br>
+Bill Buell<br>
+Billy Griffith<br>
+Brad Abrell<br>
+Cara Cooper<br>
+Carlos Carrasco<br>
+Carolyn Lawson<br>
+Casey Siemaszko<br>
+Catherine Kung<br>
+Chad Doreck<br>
+Charlene Carabeo<br>
+Chris Lucas<br>
+Chris Tardio<br>
+Columbus Short<br>
+C.S. Lee<br>
+Daniel Larlham<br>
+Daniel Lee<br>
+Daniel Venegas<br>
+Daniel Whitner<br>
+David Lopez<br>
+David Shatraw<br>
+David Shih<br>
+Dawn Jamieson<br>
+Dennis Ostermaier<br>
+Derek Basco<br>
+Don Nahaku<br>
+Donna Cross<br>
+Duane Shepard<br>
+Ed Seamon<br>
+Edwin Hodge<br>
+Evelyn Page<br>
+Frank Nitty<br>
+Frank Simms<br>
+Fred Berman<br>
+Gary Yudman<br>
+Geoffrey Arend<br>
+Gil Silverbird<br>
+Gisele Richardson<br>
+Gordana Rashovich<br>
+Gustavo Rex<br>
+Hanson Tse<br>
+Holly Lewis<br>
+Hoon Lee<br>
+Horacio Romero<br>
+Isabella Donato<br>
+Ivelka Reyes<br>
+Jack Luceno<br>
+Jackson Loo<br>
+Jameel Vega<br>
+James Kennedy<br>
+Jamil Smith<br>
+Janora McDuffie<br>
+Jason Alan Smith<br>
+Jayson Gladstone<br>
+Jeff Gurner<br>
+Jerry Diner<br>
+Jesse Perez<br>
+Jessica Lugo<br>
+Jesus Flores -:aka Oppose Da Silence:-<br>
+Jinn S. Kim<br>
+Joe Abbate<br>
+Joe Holt<br>
+John Zurhellen<br>
+Jordi Caballero<br>
+Jordin Ruderman<br>
+Jose Martinez<br>
+Julie J. Hafner<br>
+Kathy Rossetter<br>
+Ken Foree<br>
+Kenn Michael<br>
+Kenneth Choi<br>
+Kevin Mambo<br>
+Kinley Doucette<br>
+Lance Williams<br>
+Lee Rosen<br>
+Lee Wong<br>
+Lenny Grossi<br>
+Leonardo Tejeda<br>
+Lloyd Floyd<br>
+Lou Martini Jr.<br>
+Mamie-Louise Anderson<br>
+Marchand Odette<br>
+Marcus Ho<br>
+Marina Pincus<br>
+Mark Casella<br>
+Matt Eyde<br>
+Matthew Ballard<br>
+Melania Hall<br>
+Mella Fazzoli<br>
+Messeret Stroman<br>
+Michael Cullen<br>
+Michael Goz<br>
+Michael Winslow<br>
+Mike Smith<br>
+Mikka Orenstein<br>
+Millicent Cho<br>
+Monique Lea<br>
+Mr. Ko-Bra<br>
+Natalie Belcon<br>
+Nick Bosco<br>
+Nika Futterman<br>
+Nina Siemaszko<br>
+Noelle Sadler<br>
+Oliver Wyman<br>
+Omar Scroggins<br>
+Pat Nesbitt<br>
+Paul Cicero<br>
+Paul McCarthy Boyington<br>
+Paymon Bahadoran<br>
+Philip Cruise<br>
+Phillip Jeanmarie<br>
+Raynor Scheine<br>
+Rick Negron<br>
+Rocco Sisto<br>
+Rodd Houston<br>
+Rodrick Covington<br>
+Ron Foster<br>
+Ron Nakahara<br>
+Russell Koplin<br>
+Ruth Livier<br>
+Ruth Zhang<br>
+Sam Reich<br>
+Sami Sargent<br>
+Sanford Santacroce<br>
+Sara Tanaka<br>
+Sarah Sido<br>
+Shawn Curran<br>
+Sonya Walger<br>
+Stacey Newman<br>
+Stanton Sarjeant<br>
+Steve Cirbus<br>
+Stevie Ray Dallimore<br>
+Sue Jean Kim<br>
+Susan Spano<br>
+Ted Koch<br>
+Tom Sminkey<br>
+Tony Romero<br>
+Toru Ohno<br>
+Toy Connor<br>
+Tyler Bunch<br>
+Ursula Abbott<br>
+Valyn Hall<br>
+Vanese Smith<br>
+Vernee Watson-Johnson<br>
+Victor Lirio<br>
+Victor Verhaeghe<br>
+Vincenetta Gunn<br>
+Wai Ching Ho<br>
+Wass Stevens<br>
+Wilhelm Lewis<br>
+Xavier Cadeau<br>
+Daniel Einzig<br>
+Chris Carro<br>
+Ryan Rayhill<br>
+Anthony Carvalho<br>
+Phil Poli<br>
+Carmelo Gaeta<br>
+Gregg Sanderson<br>
+Elizabeth Satterwhite<br>
+Franceska Clemens<br>
+Oswald Greene<br>
+Rich Rosado<br>
+Kerry Shaw<br>
+Ethan Abeles<br>
+Richard Huie<br>
+Casting By<br>
+Judy Henderson & Associates<br>
+Recorded At<br>
+Digital Arts -:NYC:-<br>
+Audio Banks -:LA:-<br>
+Pedestrian V.O.s Written By<br>
+Dan Houser<br>
+James Worrall<br>
+DJ Pooh<br>
+Gregory Johnson<br>
+Nicole Whelan<br>
+Sanford Santacroce<br>
+With Help From<br>
+Noelle Sadler<br>
+Navid Khonsari<br>
+Ayana Osada<br>
+</td>
+</tr>
+</center>
+</marquee>
+</body>
+</html>
+
